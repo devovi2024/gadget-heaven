@@ -1,0 +1,63 @@
+[
+    {
+      "product_id": "P1001",
+      "product_title": "Smart Bluetooth Speaker",
+      "product_image": "https://i.ibb.co/K6ZfhNT/speaker.jpg",
+      "category": "Smart Watches",
+      "price": 120,
+      "description": "A portable Bluetooth speaker with voice assistant integration.",
+      "Specification": ["Bluetooth 5.1", "10h Battery Life", "Water Resistant"],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "GadgetX"
+    },
+    {
+      "product_id": "P1002",
+      "product_title": "UltraFast Laptop Pro 15",
+      "product_image": "https://i.ibb.co/VYJTGjs/laptop.jpg",
+      "category": "Computers",
+      "price": 899,
+      "description": "High-performance laptop with 16GB RAM and 1TB SSD.",
+      "Specification": ["Intel i7", "16GB RAM", "1TB SSD", "15.6'' Display"],
+      "availability": true,
+      "rating": 4.8,
+      "brand": "TechWare"
+    },
+    {
+      "product_id": "P1003",
+      "product_title": "Wireless Charging Pad",
+      "product_image": "https://i.ibb.co/BZxqmm1/charger.jpg",
+      "category": "Chargers",
+      "price": 45,
+      "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+      "Specification": ["15W Output", "Non-Slip Pad", "USB-C Input"],
+      "availability": true,
+      "rating": 4.3,
+      "brand": "PowerUp"
+    },
+    {
+      "product_id": "P1004",
+      "product_title": "Smartphone X20",
+      "product_image": "https://i.ibb.co/W2M1Wg1/phone.jpg",
+      "category": "Phones",
+      "price": 699,
+      "description": "Flagship phone with stunning display and long-lasting battery.",
+      "Specification": ["6.5'' AMOLED", "128GB Storage", "5G Enabled"],
+      "availability": false,
+      "rating": 4.7,
+      "brand": "MobiNext"
+    },
+    {
+      "product_id": "P1005",
+      "product_title": "Solar Power Bank 20000mAh",
+      "product_image": "https://i.ibb.co/2tCmD2s/powerbank.jpg",
+      "category": "Power Banks",
+      "price": 55,
+      "description": "Rugged and waterproof solar power bank with dual USB output.",
+      "Specification": ["20000mAh", "Solar Panel", "Dual USB Output"],
+      "availability": true,
+      "rating": 4.4,
+      "brand": "EcoCharge"
+    }
+  ]
+  
